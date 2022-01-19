@@ -221,7 +221,6 @@ const LeftBar = styled.span`
 	width: 5%;
 	height: 100%;
 	background-color: #5c544d;
-	cursor: pointer;
 `;
 const LeftButton = styled.button`
 	width: 30px;
@@ -259,5 +258,6 @@ const RightButton = styled.button`
 	background-color: #a2aaa6;
 	border: none;
 	border-radius: 20px;
+	cursor: pointer;
 `;
 export default WantedCarousel;
