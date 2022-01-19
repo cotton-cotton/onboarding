@@ -60,7 +60,7 @@ function WantedCarousel() {
 						<List>직군별 연봉</List>
 						<List>이력서</List>
 						<List>커뮤니티</List>
-						<List>프리랜서ㄴㄴ</List>
+						<List>프리랜서</List>
 						<List>AI 합격예측</List>
 					</ListContainer>
 					<ServiceContainer>
