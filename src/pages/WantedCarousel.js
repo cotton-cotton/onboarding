@@ -221,6 +221,7 @@ const LeftBar = styled.span`
 	width: 5%;
 	height: 100%;
 	background-color: #5c544d;
+	cursor: pointer;
 `;
 const LeftButton = styled.button`
 	width: 30px;
@@ -229,6 +230,7 @@ const LeftButton = styled.button`
 	background-color: #a2aaa6;
 	border: none;
 	border-radius: 20px;
+	cursor: pointer;
 `;
 const ButtonImg = styled.img`
 	width: 16px;
