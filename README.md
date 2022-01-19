@@ -1,2 +1,2 @@
 # Wanted-Onboarding-assigntment
-netlify: https://onboarding-assignment.netlify.app
+- netlify: https://onboarding-assignment.netlify.app
